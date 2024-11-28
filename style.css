@@ -3,7 +3,7 @@ div {
     justify-content: center;
 }
 body{
- background-size: 1700px;
+ background-size: cover;
   background-image: url("pexels-jplenio-1114896.jpg");
 }
 button{
@@ -40,15 +40,7 @@ font-weight: 700;
 transition: 0.5s;
 text-decoration: none;
 }
-h3{
-  margin-left: 50px;
-  margin-top: 280px;
-  color: white;
-  position: absolute;
-  font-size: 30px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-style: oblique;
-}
+
 button:hover {
   background-color: rgba(255, 255, 0, 0);
   border: 3px solid white;
