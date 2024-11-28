@@ -45,7 +45,7 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-weight: 700;
 transition: 0.5s;
 text-decoration: none;
-cursor: url('pngwing.com.png') 4 1;
+cursor: url('pngwing.com.png'), auto;
     color: rgba(255, 255, 0, 0)
 }
 
