@@ -41,7 +41,7 @@ a:link{
 }
 a{
 font-size: 21px;
-font-family: "Exo 2", sans-serif;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-weight: 700;
 transition: 0.5s;
 text-decoration: none;
