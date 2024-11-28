@@ -1,6 +1,6 @@
 #d{
     display: inline;
-    width: 260px;
+    width: 360px;
     height: 400px;
     border: 7px solid #cb5425;
     background-color: rgba(102, 41, 11, 0.396);
@@ -9,7 +9,7 @@
 }
 #f{
     display: inline;
-     width: 260px;
+     width: 360px;
     height: 400px;
     margin-left: 20px;
     border: 7px solid  #cb5425;
@@ -32,7 +32,7 @@ body{
 }
 #f{
     display: inline;
-      width: 260px;
+      width: 360px;
     height: 400px;
     margin-left: 20px;
     border: 7px solid  #cb5425;
